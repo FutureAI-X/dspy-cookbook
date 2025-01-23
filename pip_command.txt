@@ -1,0 +1,2 @@
+# 安装 DSPy
+pip3 install -U dspy
