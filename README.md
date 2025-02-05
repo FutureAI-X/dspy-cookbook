@@ -13,7 +13,6 @@ DSPy 学习代码
 
 ## 三 Jupyter
 启动 Jupyter 命令
-
-'''
+```
 jupyter lab
-'''
+```
